@@ -10,14 +10,12 @@
 
 #
 
-<p id="table"><p>
-
 <table>
   <tr>
-    <td style='width: 200px;'> <h1>Day</h1> </td>
-    <td> <h1 style='width: 200px;'>Date</h1> </td>
-    <td> <h1 style='width: 250px;'>Live Site</h1> </td>
-    <td> <h1 style='width: 250px;'>Repo</h1> </td>
+    <td> <h1>Day</h1> </td>
+    <td> <h1>Date</h1> </td>
+    <td> <h1>Live Site</h1> </td>
+    <td> <h1>Repo</h1> </td>
   </tr>
   <tr>
     <td> <b> Day 001 </b> </td>
